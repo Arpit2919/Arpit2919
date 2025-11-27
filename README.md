@@ -11,17 +11,16 @@
 <div align="center">
  
  🔭 I’m currently working on **MERN Stack Projects**
-</div>
+
+
+ </div>
  
 <div align="center"> 
-  <a href="mailto:chiragmahajan26.cm@gmail.com">
+  <a href="mailto:subhashishkumararpit@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/chiraggupta26" target="_blank">
+  <a href="https://www.linkedin.com/in/arpit-kumar19/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/_chiragmahajann__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </div>
 
